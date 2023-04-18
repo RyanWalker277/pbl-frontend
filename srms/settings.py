@@ -13,7 +13,7 @@ SECRET_KEY = '3b+v2ik910*^1^-z!($fq4o5s%(&6-bp2exaa_i1@33+gl_x7i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pblsample.pythonanywhere.com']
 
 
 # Application definition
