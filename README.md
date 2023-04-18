@@ -1,1 +1,2 @@
-# pbl-frontend
+# SRMS
+Student Result Management System
